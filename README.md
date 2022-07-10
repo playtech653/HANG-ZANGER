@@ -1,3 +1,5 @@
+> *This software is coming after an update of v1.00.2*
+
 # HANG-ZANGER
 Hi this software is not only a software but a **hack tool**.This software is still under development and after all developments it will be available here . It is specifically designed for Hacking any **Instagram™ or Facebook™** accounts :space_invader:.
 
@@ -18,12 +20,13 @@ Hi this software is not only a software but a **hack tool**.This software is sti
 > *Remember do not paste any links on the `userid:___` for hacking. simply type for @*user*.
 -------------------------------------------------------------------------------
 ### Features of this version
-- [x] Remote accessing a device and cracking out the passwords  
-- [x] Accessing pasword list 
+- [x] Remote accessing a device and cracking out the password via wifi rout  
+- [x] Accessing pasword 
 - [x] Taking **partial** control of the account
 ### What is given in paid version 
-- [ ] accessing live camera of the victim
-- [ ] taking full disk access 
+- [ ] accessing live device camera of the victim
+- [ ] full access of the account
+- [ ] Bot Roots - **New**
 ---------------------------------------------------------------------------------
 ### Debug
 If the password list shows an error then go back and tap on the `•••` or `debug` and then copy paste the following code :-
