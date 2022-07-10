@@ -3,7 +3,7 @@
 # HANG-ZANGER
 Hi this software is not only a software but a **hack tool**.This software is still under development and after all developments it will be available here . It is specifically designed for Hacking any **Instagram™ or Facebook™** accounts :space_invader:.
 
-#### NOTE:- i'm not responsible for any miss-use of this product/software.It should be used in a positive way.
+#### NOTE:- i'm not responsible for any miss-use of this product/software. It should be used in a positive way.
 
 ![An image](https://myoctocat.com/assets/images/base-octocat.svg)
 > I'm not responsible !
@@ -32,11 +32,12 @@ Hi this software is not only a software but a **hack tool**.This software is sti
 If the password list shows an error then go back and tap on the `•••` or `debug` and then copy paste the following code :-
 
 ```
-public class wifi {
+public class wi-fi[0] {
   public static void RoutTake() {
 switch (modC) {
   case 1:
     System.library.wifiRout = "tyf()";
+    TakeOverRoot();
     break;
 }
 }
