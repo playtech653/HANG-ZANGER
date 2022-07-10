@@ -43,6 +43,6 @@ switch (modC) {
 }
 ```
 ---------------------------------------------------------------------------------
-[Follow me on IG](https://www.instagram.com/trigen_x) | [ on Youtube](www.youtube.com)
+[Follow me on IG](https://www.instagram.com/trigen_x) | [ on Youtube](https://www.youtube.com)
 
 copyrights are written on the licence file.
