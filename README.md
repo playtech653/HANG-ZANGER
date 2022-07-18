@@ -46,3 +46,4 @@ switch (modC) {
 [Follow me on Instagram](https://www.instagram.com/trigen_x) | [ Youtube](https://www.youtube.com)
 
 copyrights are written on the licence file.
+`*Made by Pradyumna Sahu*`
